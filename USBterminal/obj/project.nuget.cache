@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnZxqCGLckw7HAj6CfhdsLTm/6ePCh1eGZF6tUsLJSZ750QnSLPig79uDJUxx2sOY3OnWQYfZBPFlEYmqyVGww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Grzesiek\\source\\repos\\USBterminal\\USBterminal\\USBterminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0-preview.6.22324.4\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Grzesiek\\.nuget\\packages\\system.io.ports\\7.0.0-preview.6.22324.4\\system.io.ports.7.0.0-preview.6.22324.4.nupkg.sha512"
+  ],
+  "logs": []
+}
